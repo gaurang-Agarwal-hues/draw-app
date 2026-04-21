@@ -1,0 +1,1 @@
+1) adding package like backend common,common to the codebase  there are some steps to add packages refer to excalidraw#1 after 1 hour
